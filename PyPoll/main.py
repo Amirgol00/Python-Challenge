@@ -35,7 +35,7 @@ output = [
     "-------------------------"
 ]
 
-winner = None
+winner = ""
 max_votes = 0
 
 for candidate, votes in candidates.items():

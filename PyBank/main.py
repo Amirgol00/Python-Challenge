@@ -37,7 +37,7 @@ with open(file_path, newline='') as csvfile:
         previous_month_profit_loss = current_month_profit_loss
 
 # Calculate average change
-average_change = sum(monthly_changes) / len(monthly_changes) if monthly_changes else 0
+average_change = sum(monthly_changes) / len(monthly_changes) 
 
 # Prepare the analysis summary
 summary = (
