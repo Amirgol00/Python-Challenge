@@ -4,8 +4,8 @@ import os
 
 
 # File path for the dataset
-file_path = 'Module 3 Challenge/PyPoll/Resources/election_data.csv'  # Adjust the file path as needed
-output_file_path = 'Module 3 Challenge/PyPoll/Analysis/Election_Results.txt'  # Output file path
+file_path = 'PyPoll/Resources/election_data.csv'  # Adjust the file path as needed
+output_file_path = 'PyPoll/Analysis/Election_Results.txt'  # Output file path
 
 # Initialize variables
 total_votes = 0
