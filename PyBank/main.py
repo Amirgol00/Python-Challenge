@@ -1,8 +1,8 @@
 import csv
 
 # File path for the dataset and output
-file_path = 'Module 3 Challenge/PyBank/Resources/budget_data.csv'
-output_path = 'Module 3 Challenge/PyBank/Analysis/financial_analysis_summary.txt'
+file_path = 'PyBank/Resources/budget_data.csv'
+output_path = 'PyBank/Analysis/financial_analysis_summary.txt'
 
 # Initialize variables
 total_months = 0
